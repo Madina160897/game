@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+    background-color: #0C0C0C;
+    font-family: 'Inter', sans-serif;
+}
+
+.flex{
+    display: flex;
+}
+
+.fd-c{
+    flex-direction: column;
+}
+
+.jc-sb{
+    justify-content: space-between;
+}
+
+.jc-sa{
+    justify-content: space-around;
+}
+
+.jc-c{
+    justify-content: center;
+}
+
+.ai-c{
+    align-items: center;
+}
+
+.side-padding{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.mt-200{
+    margin-top: 200px;
+}
+
+.mt-100{
+    margin-top: 100px;
+}
+
+.mt-20{
+    margin-top: 20px;
+}
+
+header{
+    height: 120px;
+}
+
+.logo{
+    width: 145px;
+    height: 45px;
+}
+
+.header-text{
+    font-size: 17px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.header-but{
+    width: 190px;
+    height: 60px;
+    background-color: #9bf00b;
+    font-size: 15px;
+    font-weight: 700;
+    color: #0a0a0a;
+}
+
+.block-one{
+    height: 1010px;
+   
+}
+
+.title-photo{
+    width: 775px;
+    height: 1010px;
+    position: relative;
+    z-index: 0;
+    top: -65%;
+    left: 43%;
+}
+
+.text-new{
+    font-size: 21px;
+    font-weight: 700;
+    color: #9bf00b;
+}
+
+h1{
+    font-size: 171px;
+    font-weight: 600;
+    color: #ffffff;
+    z-index: 1;
+    margin: 0;
+}
+
+.text-one{
+    font-size: 23px;
+    font-weight: 600;
+    color: #818181;
+    line-height: 150%;
+}
+
+.fk{
+    font-size: 69px;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 7px;
+}
+
+.info-photo{
+    width: 92px;
+    height: 62px;
+}
+
+.block-text{
+    font-size: 91px;
+    font-weight: 700;
+    text-align: center;
+    color: #ffffff;
+}
+
+.bg-img{
+    height: 755px;
+    background-image: url(../img/image\ bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    width: 40%;
+    font-size: 72px;
+    font-weight: 700;
+    color: #ffffff;
+    padding: 88% 0 0 10%;
+}
+
+.img1{
+    width: 207px;
+    height: 290px;
+    z-index: 0;
+    position: relative;
+    top: -600px;
+    left: 76%;
+}
+
+.img2{
+    width: 325px;
+    height: 455px;
+    z-index: 1;
+    position: relative;
+    top: -820px;
+    left: 55.5%;
+}
+
+.img3{
+    width: 263px;
+    height: 367px;
+    z-index: 0;
+    position: relative;
+    top: -975px;
+    left: 75%;
+}
