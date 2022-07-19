@@ -41,12 +41,20 @@ body{
     margin-top: 100px;
 }
 
+.mt-40{
+    margin-top: 40px;
+}
+
 .mt-20{
     margin-top: 20px;
 }
 
 header{
     height: 120px;
+}
+
+main{
+    height: 8920px;
 }
 
 .logo{
@@ -163,4 +171,20 @@ h2{
     position: relative;
     top: -975px;
     left: 75%;
+}
+
+.j-img{
+    width: 650px;
+    height: 745px;
+}
+
+.icon{
+    z-index: 1;
+    position: relative;
+}
+
+.end-text{
+    font-size: 16px;
+    font-weight: 500;
+    color: #777777;
 }
